@@ -1,0 +1,88 @@
+.btn{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    }
+  
+    .btn-primary {
+        background-color: rgb(224, 212, 212);
+        border: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+    }
+    .btn-dark {
+        background-color: rgb(37, 35, 35);
+        border: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white;     
+    }
+    .btn-black {
+        background-color: rgb(7, 7, 7);
+        border: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white;     
+    }
+    .txt{
+        background-color: transparent;
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:blue
+        }
+        
+    .primary{
+        background-color:aqua;
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:blue
+      }
+
+      .link{
+        background-color:rgb(76, 243, 243);
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white
+      }    
+
+      .info{
+        background-color:rgb(80, 78, 212);
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white
+      }    
+
+      .success{
+        background-color:rgb(117, 243, 123);
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white
+      }
+      .warning{
+        background-color:rgb(219, 200, 93);
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white
+      }
+      .danger{
+        background-color:rgb(209, 115, 91);
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color:white
+      }            
